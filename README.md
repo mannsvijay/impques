@@ -1,1 +1,1 @@
-for dsa ques for disjoint set
+# for dsa ques for disjoint set
